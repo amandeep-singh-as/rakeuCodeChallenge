@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/rakeuCodeChallenge/static/js/main.7b24af84.js",
+    "static/js/787.cda612ba.chunk.js": "/rakeuCodeChallenge/static/js/787.cda612ba.chunk.js",
+    "index.html": "/rakeuCodeChallenge/index.html",
+    "main.7b24af84.js.map": "/rakeuCodeChallenge/static/js/main.7b24af84.js.map",
+    "787.cda612ba.chunk.js.map": "/rakeuCodeChallenge/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7b24af84.js"
+  ]
+}
